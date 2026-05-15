@@ -1,4 +1,4 @@
-# RxAI — Intelligent Drug Prediction System
+#  — Intelligent Drug Prediction System
 
 ## ML Model
 - **Algorithm**: Random Forest Classifier (300 trees)
